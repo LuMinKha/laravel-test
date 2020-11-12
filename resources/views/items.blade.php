@@ -7,7 +7,7 @@
                
             }
             thead {
-                background: #aaa;
+                background: #bbb;
             }
             thead tr th {
                 height: 50px;
