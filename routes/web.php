@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/itemsssssss', 'App\Http\Controllers\ItemController@index');
+Route::get('/item', 'App\Http\Controllers\ItemController@index');
